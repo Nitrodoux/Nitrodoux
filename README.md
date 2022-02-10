@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitrodoux 
 - 👀 I’m interested in programming, automation, robotics.
-- 🌱 I’m currently learning HTML, CSS. JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on some frontend developemnt projects.
 - 📫 How to reach me https://www.linkedin.com/in/jakub-b%C4%85czyk-b4a7311b1/
 
